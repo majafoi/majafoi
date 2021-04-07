@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @majafoi
+- 👀 I’m interested in data science projects, data analytics, R, statistics
+- 🌱 I’m currently learning SQL, advanced R and advanced statistics/ML/data science
+- 💞️ I’m looking to collaborate on projects, find datasets and help other people + looking for a remote job
+- 📫 You can reach me via my e-mail.
