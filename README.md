@@ -5,4 +5,4 @@
 - 📫 You can reach me via my e-mail maja.analytics.blog@gmail.com
 
 - I am keeping my code clean/tutorial-like, so every person can read it - professional data scientist or not, and tend to keep it that way all the times.
-- I will post 2-3 projects a week, to show my process of learning new stuff in data science!
+- new batch of projects coming up on July 12th, 2021.
